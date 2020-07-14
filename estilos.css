@@ -1,0 +1,19 @@
+
+.principal{
+	margin-top:40px;
+	font-family: 'Roboto';
+}
+
+
+/*tarjeta 1*/
+.card-header-first{
+	margin-top:-40px;
+    height: 120px;
+	box-shadow:1px 5px 15px #007bff;
+}
+
+/*Para el efecto sombra al pasar por encima el mouse*/
+.card-section:hover{
+	box-shadow:1px 1px 20px #007bff;
+}.col-md-13 {
+}
