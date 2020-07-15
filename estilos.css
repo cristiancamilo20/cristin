@@ -12,6 +12,15 @@
 	box-shadow:1px 5px 15px #007bff;
 }
 
+/*tarjeta 2*/
+.card-header-second{
+	box-shadow:1px 7px 15px #a2a2a2;
+    margin:-25px -25px 0px -25px;
+    height: 120px;
+	background: linear-gradient(-90deg, #8E2DE2, #4A00E0); 
+}
+
+
 /*Para el efecto sombra al pasar por encima el mouse*/
 .card-section:hover{
 	box-shadow:1px 1px 20px #007bff;
